@@ -1,6 +1,6 @@
-# mbp-fedora
+# mbp-fedora-kde
 
-[![Build Status](https://github.com/mikeeq/mbp-fedora/actions/workflows/build-iso.yml/badge.svg)](https://github.com/mikeeq/mbp-fedora/actions/workflows/build-iso.yml)
+[![Build Status](https://github.com/zeroday0619/mbp-fedora-kde/actions/workflows/build-iso.yml/badge.svg)](https://github.com/zeroday0619/mbp-fedora-kde/actions/workflows/build-iso.yml)
 
 Fedora ISO with Apple T2 patches built-in (Macbooks produced >= 2018).
 
